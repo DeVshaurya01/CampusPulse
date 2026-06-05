@@ -1,5 +1,7 @@
 # 🎓 CampusPulse
 
+**🌐 Live Demo:** [https://campuspulse-jade.vercel.app](https://campuspulse-jade.vercel.app)
+
 CampusPulse is a modern, dynamic, and fully-featured campus event discovery and management platform. Powered by AI, it automatically extracts and parses important details from event posters or descriptions, allowing students to effortlessly track, share, and RSVP to campus activities.
 
 ---
